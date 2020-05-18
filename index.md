@@ -13,7 +13,7 @@
 </table>
 
 ### Biography
-  Ya Jing received the B.E. degree from the Department of Automation, Beihang University, Beijing, China, in 2016. She is currently pursuing the Ph.D. degree with the Institute of Automation, Chinese Academy of Sciences (CASIA). Her main research interests include cross-modal retrieval, situation recognition, action recognition and pedestrian attribute recognition. 
+Ya Jing received the B.E. degree from the Department of Automation, Beihang University, Beijing, China, in 2016. She is currently pursuing the Ph.D. degree with the Institute of Automation, Chinese Academy of Sciences (CASIA). Her main research interests include cross-modal retrieval, situation recognition, action recognition and pedestrian attribute recognition. 
 
 ### Publication
 1. Ya Jing, Wei Wang, Liang Wang, Tieniu Tan. Cross-Modal Cross-Domain Moment Alignment Network for Person Search. 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition. (CVPR 2020)
