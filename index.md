@@ -7,7 +7,7 @@
       <p><b>ya.jing@cripac.ia.ac.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/证件照.jpg" width="100%">      % 插入证件照代码
+      <img src="/证件照.jpg" width="100%">
     </td>
   </tr>
 </table>
