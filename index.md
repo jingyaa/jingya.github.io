@@ -21,3 +21,4 @@ Ya Jing received the B.E. degree from the Department of Automation, Beihang Univ
 3. Chenyang Si, Ya Jing, Wei Wang, Liang Wang, and Tieniu Tan. Skeleton-Based Action Recognition with Spatial Reasoning and Temporal Stack Learning. 2018 IEEE/CVF Conference on European Conference on Computer Vision. (ECCV 2018)
 
 
+
