@@ -10,7 +10,7 @@
       <img src="证件照.jpg" width="100%">
     </td>
   </tr>
-</table> 
+</table>  
 
 ### Biography
 Ya Jing received the B.E. degree from the Department of Automation, Beihang University, Beijing, China, in 2016. She is currently pursuing the Ph.D. degree with the Institute of Automation, Chinese Academy of Sciences (CASIA). Her main research interests include cross-modal retrieval, situation recognition, action recognition and pedestrian attribute recognition. 
