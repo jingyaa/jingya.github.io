@@ -14,7 +14,9 @@
 
 ### Biography
 Ya Jing received the B.E. degree from the Department of Automation, Beihang University, Beijing, China, in 2016. She is currently pursuing the Ph.D. degree with the Institute of Automation, Chinese Academy of Sciences (CASIA). 
+
 She is now an intern at the ByteDance AI Lab.
+
 Her main research interests include cross-modal retrieval, referring image segmentation, situation recognition, action recognition and pedestrian attribute recognition. 
 
 ### Publication
