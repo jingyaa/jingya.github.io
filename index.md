@@ -27,4 +27,3 @@ Her main research interests include cross-modal retrieval, referring image segme
 5. Ya Jing, Junbo Wang, Wei Wang, Liang Wang, Tieniu Tan. Relational Graph Neural Network for Situation Recognition. Pattern Recognition (PR), 2020.
 6. Chenyang Si, Ya Jing, Wei Wang, Liang Wang, and Tieniu Tan. Skeleton-Based Action Recognition with Spatial Reasoning and Temporal Stack Learning. 2018 IEEE/CVF Conference on European Conference on Computer Vision. (ECCV 2018)
 7. Chenyang Si*, Ya Jing*, Wei Wang, Liang Wang, Tieniu Tan. Skeleton-Based Action Recognition with Hierarchical Spatial Reasoning and Temporal Stack Learning Network. Pattern Recognition (PR), 2020. (* equal contribution）
- 
