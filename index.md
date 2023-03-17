@@ -12,7 +12,7 @@
 </table>  
 
 ### Biography
-I received the B.E. degree from the Department of Automation, Beihang University, Beijing, China, in 2016. I received my Ph.D. from the Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Tieniu Tan.
+I received my B.E. from the Department of Automation, Beihang University, Beijing, China, in 2016. I received my Ph.D. from the Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Tieniu Tan.
 
 I am now a research scientist in ByteDance Research.
 
