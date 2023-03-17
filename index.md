@@ -2,9 +2,8 @@
   <tr>
     <td width="75%">
       <h1>Ya Jing</h1>
-      <p><b>Ph.D. student</b></p>
-      <p><b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b></p>
-      <p><b>ya.jing@cripac.ia.ac.cn</b></p>
+      <p><b>ByteDance Research</b></p>
+      <p><b>jingya@bytedance.com</b></p>
     </td>
     <td width="25%">
       <img src="WechatIMG398.jpeg" width="100%">
